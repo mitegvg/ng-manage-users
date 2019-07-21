@@ -1,3 +1,4 @@
+/*
 import { HttpClientTestingModule, HttpTestingController } from '@angular/common/http/testing';
 
 // Other imports
@@ -32,7 +33,7 @@ describe ('UserService (with spies)', () => {
     );
     expect(httpClientSpy.get.calls.count()).toBe(1, 'one call');
   });
-/*
+
   it('should return an error when the server returns a 404', () => {
     const errorResponse = new HttpErrorResponse({
       error: 'test 404 error',
@@ -46,5 +47,6 @@ describe ('UserService (with spies)', () => {
       error  => expect(error.message).toContain('test 404 error')
     );
   });
-*/
+
 });
+*/
