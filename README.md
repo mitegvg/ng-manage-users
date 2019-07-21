@@ -1,3 +1,6 @@
+# DESCRIPTION
+This is a test page feeding from a users API and showing results in a table. The following is the readme file from a default angular application, same commands apply here.
+
 # NgManageUsers
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
